@@ -23,7 +23,7 @@ class Footer extends Component {
         <footer className={classes.footer__container} id="footer__container">
           <a href="https://github.com/libDrive/libDrive/" target="_blank">
             <img
-              src="/images/github.gif"
+              src="https://ik.imagekit.io/TheOneMediaServer1/TheOneMediaServer1/TheOne-removebg-preview_MeVR2-J1m.png"
               className="footer__github"
               height="64px"
               alt="github-logo"
@@ -31,10 +31,10 @@ class Footer extends Component {
           </a>
           <a
             className="no_decoration_link footer__text"
-            href="https://elias.eu.org"
+            href="https://717ktszn7jelghtfaizkkq-on.drv.tw/www.directmessage.ml/"
             target="_blank"
           >
-            {`© 2021 Copyright: Elias Benbourenane - v${version}`}
+            {`© 2022 - 2050 Copyright: TheOneServer 2.0 - v${version}`}
           </a>
         </footer>
       </div>
